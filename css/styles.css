@@ -1,0 +1,46 @@
+body{
+    background-color: #336699;
+}
+
+.dashboardbox{
+	margin-bottom:20px;
+}
+
+.pagebg{
+	background-color:#ffffff;
+	border-radius:4px;
+	margin-bottom:20px;
+}
+
+.groupname{
+	font-size: 30px;
+    margin-right: 80px;
+}
+
+.addgroupbtn{
+	margin-top: 30px;
+}
+
+.changeorderinput{
+	text-align:center;
+	width:25px;
+	}
+
+/* Margins */
+.marginleft10{
+	margin-left:10px;
+}
+/* ADM TABLE */
+.adm-table{
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.adm-button > img{
+	float:left;
+}
+
+.adm-table > tbody > tr > td{
+	width:25%;
+}

@@ -1,0 +1,39 @@
+body{
+	background: #336699 url("../images/wp.png") no-repeat fixed center; 
+}
+
+.menu-bg{
+	display:none;
+}
+
+.login-heading{
+	color:#ffffff;
+	font-size:55px;
+	text-shadow: 0px 0px 6px rgba(0, 0, 0, 1);
+	font-weight:300;
+}
+
+.loginstyle{
+	width:100%;
+}
+
+.passwordstyle{
+	width:100%;
+}
+
+.loginbutton{
+	width:100%;
+}
+
+.forgotpass{
+	height:55px;
+	text-align:center;
+}
+
+.forgotpass a{
+	color:#ffffff;
+}
+
+.main-content{
+	margin-top:250px;
+}
